@@ -3,19 +3,13 @@
 
 const addInput1 = document.getElementById('add-input-1');
 
-
-
 const addInput2 = document.getElementById('add-input-2');
-
-console.log(addInput2.value);
 
 const addButton = document.getElementById('add-button');
 
-console.log(addButton);
-
 const addResults = document.getElementById('add-results');
 
-console.log(addResults);
+
 
 
 
@@ -40,19 +34,13 @@ addButton.addEventListener('click', () => {
 
 const subInput1 = document.getElementById('sub-input-1');
 
-
-
 const subInput2 = document.getElementById('sub-input-2');
-
-console.log(subInput2.value);
 
 const subButton = document.getElementById('sub-button');
 
-console.log(addButton);
-
 const subResults = document.getElementById('sub-results');
 
-console.log(subResults);
+
 
 
 
