@@ -1,3 +1,5 @@
+// ADDITION SECTION 
+
 
 const addInput1 = document.getElementById('add-input-1');
 
@@ -33,7 +35,7 @@ addButton.addEventListener('click', () => {
 });
 
 
-
+// SUBTRACTION SECTION
 
 
 const subInput1 = document.getElementById('sub-input-1');
@@ -70,6 +72,8 @@ subButton.addEventListener('click', () => {
 
 });
 
+// MULTIPLY SECTION
+
 const multInput1 = document.getElementById('mult-input-1');
 
 const multInput2 = document.getElementById('mult-input-2');
@@ -91,6 +95,7 @@ multButton.addEventListener('click', () => {
 });
 
 
+// DIVIDE SECTION
 
 const divInput1 = document.getElementById('div-input-1');
 
